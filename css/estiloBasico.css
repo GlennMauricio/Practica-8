@@ -1,0 +1,120 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+h1 {
+font-family: Georgia, 'Times New Roman', Times, serif;
+border: 5px;
+} 
+h2 {
+font: bold 14px verdana, sans-serif;
+}
+
+h3{
+  margin:10px 0;
+    padding-bottom:10px;
+    width:180px;
+    color:#890404;
+    border-bottom:3px solid #000000;
+}
+
+b{
+  color: #000000;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption,
+hgroup{
+display: block;
+}
+
+body {
+text-align: center;
+}
+
+#agrupar {
+width: 960px;
+margin: 15px auto;
+text-align: left;
+}
+
+#cabecera {
+background-image: url("http://www.solofondos.com/wp-content/uploads/2016/03/giphy.gif");
+color: aqua;
+border: 5px solid #000000;
+padding: 20px;
+}
+
+#menu {
+background: #1b6d78;
+padding: 5px 15px;
+}
+#menu li {
+display: inline-block;
+list-style: none; 
+padding: 5px;
+font: bold 14px verdana, sans-serif;
+}
+
+#seccion {
+float:right;
+width: 660px;
+margin: 20px;
+}
+
+#columna {
+background-image: url("https://img1.picmix.com/output/stamp/normal/1/0/1/2/592101_8ecc7.gif");
+float: left;
+width: 220px;
+height: 1705px;
+margin: 20px 0px;
+padding: 20px;
+}
+#pie {
+clear: both;
+text-align: center;
+padding: 20px;
+border-top: 2px solid #999999;
+}
+
+#imagen{
+  width: 20%;
+  height: 20%;
+}
+
+#imagen2{
+  width: 15%;
+  height: 10%;
+}
+
+article {
+background: #59895d;
+border: 1px solid #999999;
+padding: 20px;
+margin-bottom: 15px;
+}
+
+article footer {
+text-align: right;
+}
+
+img{
+  width: 30%;
+  height: 35%;
+}
+
+time {
+color: #999999;
+}
+
+figcaption {
+font: italic 14px verdana, sans-serif;
+}
+
+hr{
+  color: rgb(0, 0, 0);
+  border: 5px;
+}
+
+blockquote{
+  color: white;
+}
